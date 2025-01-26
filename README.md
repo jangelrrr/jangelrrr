@@ -45,6 +45,8 @@ Gracias a [mouredev-pro][Referencia3] sé utilizar las herramientas más usadas 
 
 Las tecnologias que deseo continuar aprendiendo son:  
 
+* Algoritmos
+* Programación orientada a objetos (POO)
 * Node.js con Express  
 * Otras librerías y frameworks de JavaScript para backend como:  
     * Angular  
