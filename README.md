@@ -3,7 +3,7 @@
 Hola.  
 Me llamo Jose Angel y vivo en el norte de Lugo - Galicia - España.  
 Mi trabajo no tiene nada que ver con la informática pero siempre me ha gustado.
-Me dispongo a aprender a programar tanto en backend como en frontend.  
+Me dispongo a aprender a programar tanto en backend como en frontend, para llegar a crear aplicaciones Web
 Guardo y guardaré todos los ejercicios y proyectos que haga. Guardo en cada repositorio los códigos de cada lenguaje.
 
 He aprendido los siguientes lenguajes:
@@ -46,16 +46,16 @@ Gracias a [mouredev-pro][Referencia3] sé utilizar las herramientas más usadas 
 Las tecnologias que deseo continuar aprendiendo son:  
 
 * Algoritmos
-* Programación orientada a objetos (POO)
+* HTML y CSS
 * Node.js con Express  
-* Otras librerías y frameworks de JavaScript para backend como:  
+* Librerías y frameworks de JavaScript como:  
     * Angular  
     * Vue.js  
-    * React  
+    * React
+    * React
 * Aumentar mis conocimientos en bases de datos:  
     * MySql
-    * MongoDB
-* HTML y CSS  
+    * MongoDB  
 
 
 
